@@ -75,7 +75,7 @@ function App() {
                 fontSize: '1rem',
                 textShadow: '0 0 5px rgba(255, 255, 255, 0.3)',
               }}>
-                Unleash your truest form
+                 “Poets need to live”
               </p>
             </div>
           </div>
